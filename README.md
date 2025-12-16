@@ -1,0 +1,2 @@
+# genai
+Genai langchainusin typescript
